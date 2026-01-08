@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Hung - Game Developer (2D - 3D Game)<br>
+Hi! I'm Hung - Game Developer (2D - 3D)<br>
 
 
 # 💻 Tech Stack:
